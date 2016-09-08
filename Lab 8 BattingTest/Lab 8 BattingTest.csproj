@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Lab 8 Batting Average\Lab 8 Batting Average.csproj">
+    <ProjectReference Include="..\Lab 8 Batting Average\Lab 8 Batting Average Calculator.csproj">
       <Project>{7756ce03-f4b6-47ec-86e4-e7ee0b3f91ff}</Project>
-      <Name>Lab 8 Batting Average</Name>
+      <Name>Lab 8 Batting Average Calculator</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

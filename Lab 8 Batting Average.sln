@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 8 Batting Average", "Lab 8 Batting Average\Lab 8 Batting Average.csproj", "{7756CE03-F4B6-47EC-86E4-E7EE0B3F91FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 8 Batting Average Calculator", "Lab 8 Batting Average\Lab 8 Batting Average Calculator.csproj", "{7756CE03-F4B6-47EC-86E4-E7EE0B3F91FF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 8 BattingTest", "Lab 8 BattingTest\Lab 8 BattingTest.csproj", "{0A4247FB-1F3C-4673-9ABA-837F842B03B1}"
 EndProject
